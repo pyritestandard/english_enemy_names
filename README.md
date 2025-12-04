@@ -1,2 +1,2 @@
-# Noita_english_enemy_names
+# Noita English Enemy Names
 Removing Finnish from Noita
