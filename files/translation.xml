@@ -1,6 +1,6 @@
 <Language
 	key="en-enemies"
-	name="English (Translated Names)"
+	name="English [Translated Names]"
 	font_default="data/fonts/font_pixel.xml"
 	font_inventory_title="data/fonts/font_pixel_big.xml"
 	font_important_message_title="data/fonts/font_pixel_huge.xml"
